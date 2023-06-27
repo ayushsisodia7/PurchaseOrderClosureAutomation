@@ -1,0 +1,13 @@
+Can't showcase the tool due to legal contract.
+
+Explaining the approach for the closure.
+
+1) Start recording with SAP recorder
+2) Go to ME22N and carry out the steps to mark delevery completion
+3) Save the recording and open the file where the recording is saved
+4) This is a VB code- insert while loop so that we can close multiple PO
+5) Save the code
+6) Open Excel, add a button 
+7) Assign macro to this button and sleect our recorded file.
+
+Done! You now have a file which can access SAP and close PO remotely.
